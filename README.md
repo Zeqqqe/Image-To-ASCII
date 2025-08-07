@@ -1,9 +1,13 @@
-**This entire app was made with Ai**
+**This entire app was made with AI**
 
-# This is a Python 3.13.4 application that converts images into ASCII art. 
+# Image to ASCII Converter
 
-## Dependencies:
-You'll need the Pillow library. To install it, open your Command Prompt (Windows) or Terminal (macOS/Linux) and run: pip install Pillow
+> A Python 3.13.4 application that converts images into ASCII art.
 
-## How to Run: 
-After installation, you can run the application by navigating to its directory in your Command Prompt/Terminal and executing: python "Image To ASCII.py"
+---
+
+## Dependencies
+`Pillow:` To install it, open your Command Prompt (Windows) or Terminal (macOS/Linux) and run the following command:
+
+```bash
+pip install Pillow
